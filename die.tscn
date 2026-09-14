@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://qm1vemvjk10o"]
+
+[node name="Die" type="RigidBody3D" unique_id=1601738326]
