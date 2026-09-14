@@ -5,7 +5,7 @@ var die: RigidBody3D
 @export var throw_force: float = 10.0
 
 func _ready() -> void:
-	die = $Die1
+	die = %Die1
 	die.roll_finished.connect(_on_die_roll_finished)
 
 func _unhandled_input(event: InputEvent) -> void:

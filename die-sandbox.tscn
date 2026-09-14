@@ -25,7 +25,7 @@ transform = Transform3D(1, 0, 0, 0, 0.5575576, 0.8301383, 0, -0.8301383, 0.55755
 
 [node name="Die1" parent="." unique_id=1601738326 instance=ExtResource("1_slsv5")]
 unique_name_in_owner = true
-transform = Transform3D(0.91307545, -0.40779063, 0, 0.40779063, 0.91307545, 0, 0, 0, 1, 0, 3.52347, 0)
+transform = Transform3D(0.91307545, -0.40779066, 0, 0.40779066, 0.91307545, 0, 0, 0, 1, 0, 3.52347, 0)
 physics_material_override = SubResource("PhysicsMaterial_7fyom")
 gravity_scale = 2.5
 continuous_cd = true
